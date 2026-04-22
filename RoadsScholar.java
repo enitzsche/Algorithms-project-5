@@ -1,4 +1,4 @@
-package algoproject5;
+package project5;
 
 import java.util.Scanner;
 import java.util.List;
