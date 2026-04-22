@@ -15,7 +15,7 @@ public class RoadsScholar {
         int k = scanner.nextInt();
 
         for (int i = 0; i < m; i++) {
-            
+            Road road = new Road(scanner.nextInt(), scanner.nextInt(), scanner.nextFloat());
         }
 }
 }
