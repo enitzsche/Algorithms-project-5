@@ -1,4 +1,4 @@
-package algoproject5;
+package project5;
 
 public class Road {
     int end1;
